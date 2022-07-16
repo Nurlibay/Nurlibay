@@ -1,6 +1,4 @@
 ### Hi there, I'm Nurlıbay! 👋
-
-- 🔭 I’m currently working on TexnoPOS company!
 - 🌱 I’m currently learning Android programming! 
 - 🤔 I’m looking for help with join huge Android Projects!
 - 💬 Ask me about Android or programming related stuff!
