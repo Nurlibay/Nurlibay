@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-4G4zVhAxueg/YKLth6HiL_I/AAAAAAAAQhM/JiTsOudkdXgb94qpNYI66jEGlauS0CETQCLcBGAsYHQ/s0/android-whats-new-in-jetpack-v2.png)]
+![MasterHead](https://1.bp.blogspot.com/-4G4zVhAxueg/YKLth6HiL_I/AAAAAAAAQhM/JiTsOudkdXgb94qpNYI66jEGlauS0CETQCLcBGAsYHQ/s0/android-whats-new-in-jetpack-v2.png)
 <h1 align="center">Hi 👋, I'm Nurlibay</h1>
 <h3 align="center">Android developer from Karakalpakstan</h3>
 
