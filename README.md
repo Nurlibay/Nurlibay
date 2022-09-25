@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **koshkinbayevn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14wWB6KDcxB4U0G4dN9HwqFSB12IQGWRh/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/142ahaG95EJpz92p2LXW0TF8Zo3fWVssq/view?usp=sharing]
 
 - ⚡ Fun fact **I don’t play games like CS GO!**
 
