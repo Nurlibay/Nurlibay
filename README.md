@@ -46,4 +46,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlibay&" alt="nurlibay" /></p>
 
-https://github.com/Nurlibay/Nurlibay/blob/main/.github/workflows/waka-readme.yml#:~:text=name%3A%20Waka,SHOW_MASKED_TIME%3A%20true
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
