@@ -45,3 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlibay&show_icons=true&locale=en" alt="nurlibay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlibay&" alt="nurlibay" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
