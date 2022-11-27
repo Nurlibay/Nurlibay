@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlibay&show_icons=true&locale=en" alt="nurlibay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlibay&" alt="nurlibay" /></p>
+
+https://github.com/Nurlibay/Nurlibay/blob/main/.github/workflows/waka-readme.yml#:~:text=name%3A%20Waka,SHOW_MASKED_TIME%3A%20true
