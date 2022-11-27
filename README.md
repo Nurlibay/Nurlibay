@@ -47,4 +47,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlibay&" alt="nurlibay" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 26 March 2021 - To: 27 November 2022
+
+Total Time: 827 hrs 44 mins
+
+Kotlin                 472 hrs 19 mins >>>>>>>>>>>>>>-----------   57.06 %
+XML                    163 hrs 45 mins >>>>>--------------------   19.78 %
+Java                   156 hrs 23 mins >>>>>--------------------   18.89 %
+Groovy                 23 hrs 16 mins  >------------------------   02.81 %
+Gradle                 3 hrs 38 mins   -------------------------   00.44 %
+Markdown               3 hrs 14 mins   -------------------------   00.39 %
+```
+
 <!--END_SECTION:waka-->
