@@ -1,64 +1,24 @@
-![MasterHead](https://1.bp.blogspot.com/-4G4zVhAxueg/YKLth6HiL_I/AAAAAAAAQhM/JiTsOudkdXgb94qpNYI66jEGlauS0CETQCLcBGAsYHQ/s0/android-whats-new-in-jetpack-v2.png)
 <h1 align="center">Hi 👋, I'm Nurlibay</h1>
-<h3 align="center">Android developer from Karakalpakstan</h3>
+<h3 align="center">Android Software Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlibay&label=Profile%20views&color=0e75b6&style=flat" alt="nurlibay" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on a banking application!<br>💬 Ask me about Android or programming related stuff!<br>📫 How to reach me koshkinbayevn@gmail.com<br>⚡ Fun fact I don’t play games like CS GO!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurlibay" alt="nurlibay" /></a> </p>
 
-- 🔭 I’m currently working on **very cool project**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100078859361328) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nurlibay.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurlibay-koshkinbaev-374071202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nurlibaydev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14375674) 
 
-- 🌱 I’m currently learning **Android programming!**
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nurlibay&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nurlibay&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlibay&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🤝 I’m looking for help with **with join huge Android Projects!**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **Android or programming related stuff!**
+---
+[![](https://visitcount.itsvg.in/api?id=Nurlibay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **koshkinbayevn@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/142ahaG95EJpz92p2LXW0TF8Zo3fWVssq/view?usp=sharing]
-
-- ⚡ Fun fact **I don’t play games like CS GO!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nurlibay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nurlibay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nurlibay-koshkinbaev-374071202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurlibay-koshkinbaev-374071202/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14375674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14375674" height="30" width="40" /></a>
-<a href="https://fb.com/100078859361328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100078859361328" height="30" width="40" /></a>
-<a href="https://instagram.com/nurlibays_lifestyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurlibays_lifestyle" height="30" width="40" /></a>
-<a href="https://medium.com/@koshkinbayevn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koshkinbayevn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/koshkinbayevn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="koshkinbayevn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nurlibaydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nurlibaydev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nurlibaydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nurlibaydev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlibay&show_icons=true&locale=en&layout=compact" alt="nurlibay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlibay&show_icons=true&locale=en" alt="nurlibay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlibay&" alt="nurlibay" /></p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 26 March 2021 - To: 27 November 2022
-
-Total Time: 827 hrs 44 mins
-
-Kotlin                 472 hrs 19 mins >>>>>>>>>>>>>>-----------   57.06 %
-XML                    163 hrs 45 mins >>>>>--------------------   19.78 %
-Java                   156 hrs 23 mins >>>>>--------------------   18.89 %
-Groovy                 23 hrs 16 mins  >------------------------   02.81 %
-Gradle                 3 hrs 38 mins   -------------------------   00.44 %
-Markdown               3 hrs 14 mins   -------------------------   00.39 %
-```
-
-<!--END_SECTION:waka-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
