@@ -2,7 +2,7 @@
 <h3 align="center">Android Software Engineer </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a banking application!<br>💬 Ask me about Android or programming related stuff!<br>📫 How to reach me koshkinbayevn@gmail.com<br>⚡ Fun fact I don’t play games like CS GO!
+🔭 I’m currently working on a banking application!<br>💬 Ask me about Android or programming related stuff!<br>📫 How to reach me koshkinbayevn@gmail.com<br>
 
 
 ## 🌐 Socials:
